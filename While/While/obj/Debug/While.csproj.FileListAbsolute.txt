@@ -1,0 +1,8 @@
+E:\Programacion\Quark\While\While\bin\Debug\While.exe.config
+E:\Programacion\Quark\While\While\bin\Debug\While.exe
+E:\Programacion\Quark\While\While\bin\Debug\While.pdb
+E:\Programacion\Quark\While\While\obj\Debug\While.csproj.AssemblyReference.cache
+E:\Programacion\Quark\While\While\obj\Debug\While.csproj.SuggestedBindingRedirects.cache
+E:\Programacion\Quark\While\While\obj\Debug\While.csproj.CoreCompileInputs.cache
+E:\Programacion\Quark\While\While\obj\Debug\While.exe
+E:\Programacion\Quark\While\While\obj\Debug\While.pdb

@@ -1,0 +1,8 @@
+E:\Programacion\Quark\Clases\Clases\bin\Debug\Clases.exe.config
+E:\Programacion\Quark\Clases\Clases\bin\Debug\Clases.exe
+E:\Programacion\Quark\Clases\Clases\bin\Debug\Clases.pdb
+E:\Programacion\Quark\Clases\Clases\obj\Debug\Clases.csproj.AssemblyReference.cache
+E:\Programacion\Quark\Clases\Clases\obj\Debug\Clases.csproj.SuggestedBindingRedirects.cache
+E:\Programacion\Quark\Clases\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+E:\Programacion\Quark\Clases\Clases\obj\Debug\Clases.exe
+E:\Programacion\Quark\Clases\Clases\obj\Debug\Clases.pdb

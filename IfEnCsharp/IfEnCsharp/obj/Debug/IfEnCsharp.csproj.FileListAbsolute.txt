@@ -1,0 +1,8 @@
+E:\Programacion\Quark\IfEnCsharp\IfEnCsharp\bin\Debug\IfEnCsharp.exe.config
+E:\Programacion\Quark\IfEnCsharp\IfEnCsharp\bin\Debug\IfEnCsharp.exe
+E:\Programacion\Quark\IfEnCsharp\IfEnCsharp\bin\Debug\IfEnCsharp.pdb
+E:\Programacion\Quark\IfEnCsharp\IfEnCsharp\obj\Debug\IfEnCsharp.csproj.AssemblyReference.cache
+E:\Programacion\Quark\IfEnCsharp\IfEnCsharp\obj\Debug\IfEnCsharp.csproj.SuggestedBindingRedirects.cache
+E:\Programacion\Quark\IfEnCsharp\IfEnCsharp\obj\Debug\IfEnCsharp.csproj.CoreCompileInputs.cache
+E:\Programacion\Quark\IfEnCsharp\IfEnCsharp\obj\Debug\IfEnCsharp.exe
+E:\Programacion\Quark\IfEnCsharp\IfEnCsharp\obj\Debug\IfEnCsharp.pdb

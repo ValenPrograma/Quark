@@ -1,0 +1,8 @@
+E:\Programacion\Quark\ClasesEjer1\ClasesEjer1\bin\Debug\ClasesEjer1.exe.config
+E:\Programacion\Quark\ClasesEjer1\ClasesEjer1\bin\Debug\ClasesEjer1.exe
+E:\Programacion\Quark\ClasesEjer1\ClasesEjer1\bin\Debug\ClasesEjer1.pdb
+E:\Programacion\Quark\ClasesEjer1\ClasesEjer1\obj\Debug\ClasesEjer1.csproj.AssemblyReference.cache
+E:\Programacion\Quark\ClasesEjer1\ClasesEjer1\obj\Debug\ClasesEjer1.csproj.SuggestedBindingRedirects.cache
+E:\Programacion\Quark\ClasesEjer1\ClasesEjer1\obj\Debug\ClasesEjer1.csproj.CoreCompileInputs.cache
+E:\Programacion\Quark\ClasesEjer1\ClasesEjer1\obj\Debug\ClasesEjer1.exe
+E:\Programacion\Quark\ClasesEjer1\ClasesEjer1\obj\Debug\ClasesEjer1.pdb

@@ -1,0 +1,8 @@
+E:\Programacion\Quark\For\For\bin\Debug\For.exe.config
+E:\Programacion\Quark\For\For\bin\Debug\For.exe
+E:\Programacion\Quark\For\For\bin\Debug\For.pdb
+E:\Programacion\Quark\For\For\obj\Debug\For.csproj.AssemblyReference.cache
+E:\Programacion\Quark\For\For\obj\Debug\For.csproj.SuggestedBindingRedirects.cache
+E:\Programacion\Quark\For\For\obj\Debug\For.csproj.CoreCompileInputs.cache
+E:\Programacion\Quark\For\For\obj\Debug\For.exe
+E:\Programacion\Quark\For\For\obj\Debug\For.pdb

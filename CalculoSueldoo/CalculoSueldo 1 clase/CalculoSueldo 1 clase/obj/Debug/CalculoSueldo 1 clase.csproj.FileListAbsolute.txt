@@ -1,0 +1,8 @@
+E:\Programacion\Quark\CalculoSueldoo\CalculoSueldo 1 clase\CalculoSueldo 1 clase\bin\Debug\CalculoSueldo 1 clase.exe.config
+E:\Programacion\Quark\CalculoSueldoo\CalculoSueldo 1 clase\CalculoSueldo 1 clase\bin\Debug\CalculoSueldo 1 clase.exe
+E:\Programacion\Quark\CalculoSueldoo\CalculoSueldo 1 clase\CalculoSueldo 1 clase\bin\Debug\CalculoSueldo 1 clase.pdb
+E:\Programacion\Quark\CalculoSueldoo\CalculoSueldo 1 clase\CalculoSueldo 1 clase\obj\Debug\CalculoSueldo 1 clase.csproj.AssemblyReference.cache
+E:\Programacion\Quark\CalculoSueldoo\CalculoSueldo 1 clase\CalculoSueldo 1 clase\obj\Debug\CalculoSueldo 1 clase.csproj.SuggestedBindingRedirects.cache
+E:\Programacion\Quark\CalculoSueldoo\CalculoSueldo 1 clase\CalculoSueldo 1 clase\obj\Debug\CalculoSueldo 1 clase.csproj.CoreCompileInputs.cache
+E:\Programacion\Quark\CalculoSueldoo\CalculoSueldo 1 clase\CalculoSueldo 1 clase\obj\Debug\CalculoSueldo 1 clase.exe
+E:\Programacion\Quark\CalculoSueldoo\CalculoSueldo 1 clase\CalculoSueldo 1 clase\obj\Debug\CalculoSueldo 1 clase.pdb

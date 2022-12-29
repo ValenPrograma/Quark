@@ -1,0 +1,8 @@
+E:\Programacion\Quark\Do while ejercicio 2\Do while ejercicio 2\bin\Debug\Do while ejercicio 2.exe.config
+E:\Programacion\Quark\Do while ejercicio 2\Do while ejercicio 2\bin\Debug\Do while ejercicio 2.exe
+E:\Programacion\Quark\Do while ejercicio 2\Do while ejercicio 2\bin\Debug\Do while ejercicio 2.pdb
+E:\Programacion\Quark\Do while ejercicio 2\Do while ejercicio 2\obj\Debug\Do while ejercicio 2.csproj.AssemblyReference.cache
+E:\Programacion\Quark\Do while ejercicio 2\Do while ejercicio 2\obj\Debug\Do while ejercicio 2.csproj.SuggestedBindingRedirects.cache
+E:\Programacion\Quark\Do while ejercicio 2\Do while ejercicio 2\obj\Debug\Do while ejercicio 2.csproj.CoreCompileInputs.cache
+E:\Programacion\Quark\Do while ejercicio 2\Do while ejercicio 2\obj\Debug\Do while ejercicio 2.exe
+E:\Programacion\Quark\Do while ejercicio 2\Do while ejercicio 2\obj\Debug\Do while ejercicio 2.pdb

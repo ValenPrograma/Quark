@@ -1,0 +1,8 @@
+E:\Programacion\Quark\CalcularSuperficie\CalcularSuperficie\bin\Debug\CalcularSuperficie.exe.config
+E:\Programacion\Quark\CalcularSuperficie\CalcularSuperficie\bin\Debug\CalcularSuperficie.exe
+E:\Programacion\Quark\CalcularSuperficie\CalcularSuperficie\bin\Debug\CalcularSuperficie.pdb
+E:\Programacion\Quark\CalcularSuperficie\CalcularSuperficie\obj\Debug\CalcularSuperficie.csproj.AssemblyReference.cache
+E:\Programacion\Quark\CalcularSuperficie\CalcularSuperficie\obj\Debug\CalcularSuperficie.csproj.SuggestedBindingRedirects.cache
+E:\Programacion\Quark\CalcularSuperficie\CalcularSuperficie\obj\Debug\CalcularSuperficie.csproj.CoreCompileInputs.cache
+E:\Programacion\Quark\CalcularSuperficie\CalcularSuperficie\obj\Debug\CalcularSuperficie.exe
+E:\Programacion\Quark\CalcularSuperficie\CalcularSuperficie\obj\Debug\CalcularSuperficie.pdb

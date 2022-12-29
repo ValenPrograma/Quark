@@ -1,0 +1,8 @@
+E:\Programacion\Quark\IfAnidadas\IfAnidadas\bin\Debug\IfAnidadas.exe.config
+E:\Programacion\Quark\IfAnidadas\IfAnidadas\bin\Debug\IfAnidadas.exe
+E:\Programacion\Quark\IfAnidadas\IfAnidadas\bin\Debug\IfAnidadas.pdb
+E:\Programacion\Quark\IfAnidadas\IfAnidadas\obj\Debug\IfAnidadas.csproj.AssemblyReference.cache
+E:\Programacion\Quark\IfAnidadas\IfAnidadas\obj\Debug\IfAnidadas.csproj.SuggestedBindingRedirects.cache
+E:\Programacion\Quark\IfAnidadas\IfAnidadas\obj\Debug\IfAnidadas.csproj.CoreCompileInputs.cache
+E:\Programacion\Quark\IfAnidadas\IfAnidadas\obj\Debug\IfAnidadas.exe
+E:\Programacion\Quark\IfAnidadas\IfAnidadas\obj\Debug\IfAnidadas.pdb
