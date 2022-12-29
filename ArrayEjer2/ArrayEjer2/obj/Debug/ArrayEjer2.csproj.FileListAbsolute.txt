@@ -1,0 +1,7 @@
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\ArrayEjer2\ArrayEjer2\bin\Debug\ArrayEjer2.exe.config
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\ArrayEjer2\ArrayEjer2\bin\Debug\ArrayEjer2.exe
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\ArrayEjer2\ArrayEjer2\bin\Debug\ArrayEjer2.pdb
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\ArrayEjer2\ArrayEjer2\obj\Debug\ArrayEjer2.csproj.AssemblyReference.cache
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\ArrayEjer2\ArrayEjer2\obj\Debug\ArrayEjer2.csproj.CoreCompileInputs.cache
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\ArrayEjer2\ArrayEjer2\obj\Debug\ArrayEjer2.exe
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\ArrayEjer2\ArrayEjer2\obj\Debug\ArrayEjer2.pdb

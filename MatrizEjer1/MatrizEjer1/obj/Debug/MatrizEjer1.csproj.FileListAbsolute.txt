@@ -1,0 +1,7 @@
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\MatrizEjer1\MatrizEjer1\bin\Debug\MatrizEjer1.exe.config
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\MatrizEjer1\MatrizEjer1\bin\Debug\MatrizEjer1.exe
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\MatrizEjer1\MatrizEjer1\bin\Debug\MatrizEjer1.pdb
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\MatrizEjer1\MatrizEjer1\obj\Debug\MatrizEjer1.csproj.AssemblyReference.cache
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\MatrizEjer1\MatrizEjer1\obj\Debug\MatrizEjer1.csproj.CoreCompileInputs.cache
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\MatrizEjer1\MatrizEjer1\obj\Debug\MatrizEjer1.exe
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\MatrizEjer1\MatrizEjer1\obj\Debug\MatrizEjer1.pdb
