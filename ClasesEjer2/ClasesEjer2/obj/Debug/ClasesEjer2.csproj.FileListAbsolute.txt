@@ -1,0 +1,7 @@
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\ClasesEjer2\ClasesEjer2\bin\Debug\ClasesEjer2.exe.config
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\ClasesEjer2\ClasesEjer2\bin\Debug\ClasesEjer2.exe
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\ClasesEjer2\ClasesEjer2\bin\Debug\ClasesEjer2.pdb
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\ClasesEjer2\ClasesEjer2\obj\Debug\ClasesEjer2.csproj.AssemblyReference.cache
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\ClasesEjer2\ClasesEjer2\obj\Debug\ClasesEjer2.csproj.CoreCompileInputs.cache
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\ClasesEjer2\ClasesEjer2\obj\Debug\ClasesEjer2.exe
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\ClasesEjer2\ClasesEjer2\obj\Debug\ClasesEjer2.pdb
