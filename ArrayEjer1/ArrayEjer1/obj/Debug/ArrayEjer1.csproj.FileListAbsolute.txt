@@ -1,0 +1,7 @@
+C:\Users\Julieta\source\repos\ArrayEjer1\ArrayEjer1\bin\Debug\ArrayEjer1.exe.config
+C:\Users\Julieta\source\repos\ArrayEjer1\ArrayEjer1\bin\Debug\ArrayEjer1.exe
+C:\Users\Julieta\source\repos\ArrayEjer1\ArrayEjer1\bin\Debug\ArrayEjer1.pdb
+C:\Users\Julieta\source\repos\ArrayEjer1\ArrayEjer1\obj\Debug\ArrayEjer1.csproj.AssemblyReference.cache
+C:\Users\Julieta\source\repos\ArrayEjer1\ArrayEjer1\obj\Debug\ArrayEjer1.csproj.CoreCompileInputs.cache
+C:\Users\Julieta\source\repos\ArrayEjer1\ArrayEjer1\obj\Debug\ArrayEjer1.exe
+C:\Users\Julieta\source\repos\ArrayEjer1\ArrayEjer1\obj\Debug\ArrayEjer1.pdb
