@@ -1,0 +1,7 @@
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\Clases Separadas IMPORTANTE\Clases Separadas IMPORTANTE\bin\Debug\Clases Separadas IMPORTANTE.exe.config
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\Clases Separadas IMPORTANTE\Clases Separadas IMPORTANTE\bin\Debug\Clases Separadas IMPORTANTE.exe
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\Clases Separadas IMPORTANTE\Clases Separadas IMPORTANTE\bin\Debug\Clases Separadas IMPORTANTE.pdb
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\Clases Separadas IMPORTANTE\Clases Separadas IMPORTANTE\obj\Debug\Clases Separadas IMPORTANTE.csproj.AssemblyReference.cache
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\Clases Separadas IMPORTANTE\Clases Separadas IMPORTANTE\obj\Debug\Clases Separadas IMPORTANTE.csproj.CoreCompileInputs.cache
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\Clases Separadas IMPORTANTE\Clases Separadas IMPORTANTE\obj\Debug\Clases Separadas IMPORTANTE.exe
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\Clases Separadas IMPORTANTE\Clases Separadas IMPORTANTE\obj\Debug\Clases Separadas IMPORTANTE.pdb

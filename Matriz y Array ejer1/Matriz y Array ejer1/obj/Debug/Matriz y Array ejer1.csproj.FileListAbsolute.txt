@@ -1,0 +1,7 @@
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\Matriz y Array ejer1\Matriz y Array ejer1\bin\Debug\Matriz y Array ejer1.exe.config
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\Matriz y Array ejer1\Matriz y Array ejer1\bin\Debug\Matriz y Array ejer1.exe
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\Matriz y Array ejer1\Matriz y Array ejer1\bin\Debug\Matriz y Array ejer1.pdb
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\Matriz y Array ejer1\Matriz y Array ejer1\obj\Debug\Matriz y Array ejer1.csproj.AssemblyReference.cache
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\Matriz y Array ejer1\Matriz y Array ejer1\obj\Debug\Matriz y Array ejer1.csproj.CoreCompileInputs.cache
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\Matriz y Array ejer1\Matriz y Array ejer1\obj\Debug\Matriz y Array ejer1.exe
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\Matriz y Array ejer1\Matriz y Array ejer1\obj\Debug\Matriz y Array ejer1.pdb

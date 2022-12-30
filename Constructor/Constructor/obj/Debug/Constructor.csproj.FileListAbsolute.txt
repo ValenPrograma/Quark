@@ -1,0 +1,7 @@
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\Constructor\Constructor\bin\Debug\Constructor.exe.config
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\Constructor\Constructor\bin\Debug\Constructor.exe
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\Constructor\Constructor\bin\Debug\Constructor.pdb
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\Constructor\Constructor\obj\Debug\Constructor.csproj.AssemblyReference.cache
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\Constructor\Constructor\obj\Debug\Constructor.csproj.CoreCompileInputs.cache
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\Constructor\Constructor\obj\Debug\Constructor.exe
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\Constructor\Constructor\obj\Debug\Constructor.pdb
