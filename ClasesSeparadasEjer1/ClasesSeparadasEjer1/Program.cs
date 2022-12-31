@@ -9,6 +9,18 @@ namespace ClasesSeparadasEjer1
     class Dados
     {
         private int valor;
+
+        public int Valor
+        {
+            set
+            {
+                valor = value;
+            }
+            get{
+                return valor;
+            }
+        }
+
         private static Random aleatorio;
 
         public Dados()
@@ -17,18 +29,15 @@ namespace ClasesSeparadasEjer1
         }
         public void Tirar()
         {
-            valor = aleatorio.Next(1, 7);
+            Valor = aleatorio.Next(1, 7);
         }
 
         public void Imprimir()
         {
-            Console.WriteLine("El valor del dado es: " + valor);
+            Console.WriteLine("El valor del dado es: " + Valor);
         }
 
-        public int retornarValor()
-        {
-            return valor;
-        }
+        
 
     }
 
@@ -52,7 +61,7 @@ namespace ClasesSeparadasEjer1
             dado2.Imprimir();
             dado3.Imprimir();
 
-            if (dado1.retornarValor() == dado2.retornarValor() && dado2.retornarValor() == dado3.retornarValor())
+            if (dado1.Valor == dado2.Valor && dado2.Valor == dado3.Valor)
             {
                 Console.WriteLine("Gano");
             }
