@@ -1,4 +1,10 @@
 {
-  "ExpandedNodes": [],
+  "ExpandedNodes": [
+    "",
+    "\\ClasesSeparadasEjer1",
+    "\\ClasesSeparadasEjer1\\ClasesSeparadasEjer1",
+    "\\Constructor\\Constructor"
+  ],
+  "SelectedNode": "\\ClasesSeparadasEjer1\\ClasesSeparadasEjer1\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

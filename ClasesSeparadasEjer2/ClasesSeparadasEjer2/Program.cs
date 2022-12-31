@@ -11,6 +11,30 @@ namespace ClasesSeparadasEjer2
         private String nombre;
         private int antiguedad;
 
+        public String Nombre
+        {
+            set
+            {
+                nombre = value;
+            }
+            get
+            {
+                return nombre;
+            }
+        } 
+        
+        public int Antiguedad
+        {
+            set
+            {
+                antiguedad = value;
+            }
+            get
+            {
+                return antiguedad;
+            }
+        }
+
         public Socio()
         {
             String line;
@@ -22,14 +46,7 @@ namespace ClasesSeparadasEjer2
             antiguedad = int.Parse(line);
         }
 
-        public int RetornarAntiguedad()
-        {
-            return antiguedad;
-        }
-        public String Nombre()
-        {
-            return nombre;
-        }
+       
     }
     class Club
     {
@@ -45,16 +62,16 @@ namespace ClasesSeparadasEjer2
         public String MasAntiguedad()
         {
             String masAntiguedad;
-            if(socio1.RetornarAntiguedad() > socio2.RetornarAntiguedad() && socio1.RetornarAntiguedad()> socio3.RetornarAntiguedad())
+            if(socio1.Antiguedad > socio2.Antiguedad && socio1.Antiguedad > socio3.Antiguedad)
             {
-                masAntiguedad = socio1.Nombre();
-            }else if (socio2.RetornarAntiguedad() > socio1.RetornarAntiguedad() && socio2.RetornarAntiguedad() > socio3.RetornarAntiguedad())
+                masAntiguedad = socio1.Nombre;
+            }else if (socio2.Antiguedad > socio1.Antiguedad && socio2.Antiguedad > socio3.Antiguedad)
             {
-                masAntiguedad = socio2.Nombre();
+                masAntiguedad = socio2.Nombre;
             }
             else
             {
-                masAntiguedad = socio3.Nombre();
+                masAntiguedad = socio3.Nombre;
             }
 
             return masAntiguedad;
