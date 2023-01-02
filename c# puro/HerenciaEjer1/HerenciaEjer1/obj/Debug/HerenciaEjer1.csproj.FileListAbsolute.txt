@@ -1,0 +1,7 @@
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\HerenciaEjer1\HerenciaEjer1\bin\Debug\HerenciaEjer1.exe.config
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\HerenciaEjer1\HerenciaEjer1\bin\Debug\HerenciaEjer1.exe
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\HerenciaEjer1\HerenciaEjer1\bin\Debug\HerenciaEjer1.pdb
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\HerenciaEjer1\HerenciaEjer1\obj\Debug\HerenciaEjer1.csproj.AssemblyReference.cache
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\HerenciaEjer1\HerenciaEjer1\obj\Debug\HerenciaEjer1.csproj.CoreCompileInputs.cache
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\HerenciaEjer1\HerenciaEjer1\obj\Debug\HerenciaEjer1.exe
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\HerenciaEjer1\HerenciaEjer1\obj\Debug\HerenciaEjer1.pdb
