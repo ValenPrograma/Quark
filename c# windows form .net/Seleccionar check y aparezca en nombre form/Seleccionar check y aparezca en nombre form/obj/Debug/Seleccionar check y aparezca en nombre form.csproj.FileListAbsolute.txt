@@ -1,0 +1,11 @@
+E:\Programacion\Quark\c# windows form .net\Seleccionar check y aparezca en nombre form\Seleccionar check y aparezca en nombre form\bin\Debug\Seleccionar check y aparezca en nombre form.exe.config
+E:\Programacion\Quark\c# windows form .net\Seleccionar check y aparezca en nombre form\Seleccionar check y aparezca en nombre form\bin\Debug\Seleccionar check y aparezca en nombre form.exe
+E:\Programacion\Quark\c# windows form .net\Seleccionar check y aparezca en nombre form\Seleccionar check y aparezca en nombre form\bin\Debug\Seleccionar check y aparezca en nombre form.pdb
+E:\Programacion\Quark\c# windows form .net\Seleccionar check y aparezca en nombre form\Seleccionar check y aparezca en nombre form\obj\Debug\Seleccionar check y aparezca en nombre form.csproj.AssemblyReference.cache
+E:\Programacion\Quark\c# windows form .net\Seleccionar check y aparezca en nombre form\Seleccionar check y aparezca en nombre form\obj\Debug\Seleccionar check y aparezca en nombre form.csproj.SuggestedBindingRedirects.cache
+E:\Programacion\Quark\c# windows form .net\Seleccionar check y aparezca en nombre form\Seleccionar check y aparezca en nombre form\obj\Debug\Seleccionar_check_y_aparezca_en_nombre_form.Form1.resources
+E:\Programacion\Quark\c# windows form .net\Seleccionar check y aparezca en nombre form\Seleccionar check y aparezca en nombre form\obj\Debug\Seleccionar_check_y_aparezca_en_nombre_form.Properties.Resources.resources
+E:\Programacion\Quark\c# windows form .net\Seleccionar check y aparezca en nombre form\Seleccionar check y aparezca en nombre form\obj\Debug\Seleccionar check y aparezca en nombre form.csproj.GenerateResource.cache
+E:\Programacion\Quark\c# windows form .net\Seleccionar check y aparezca en nombre form\Seleccionar check y aparezca en nombre form\obj\Debug\Seleccionar check y aparezca en nombre form.csproj.CoreCompileInputs.cache
+E:\Programacion\Quark\c# windows form .net\Seleccionar check y aparezca en nombre form\Seleccionar check y aparezca en nombre form\obj\Debug\Seleccionar check y aparezca en nombre form.exe
+E:\Programacion\Quark\c# windows form .net\Seleccionar check y aparezca en nombre form\Seleccionar check y aparezca en nombre form\obj\Debug\Seleccionar check y aparezca en nombre form.pdb

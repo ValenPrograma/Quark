@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Verificar clave con MessageBox", "Verificar clave con MessageBox\Verificar clave con MessageBox.csproj", "{AB1D73DA-F050-4FFA-A57E-84CFD9241EDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB1D73DA-F050-4FFA-A57E-84CFD9241EDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB1D73DA-F050-4FFA-A57E-84CFD9241EDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB1D73DA-F050-4FFA-A57E-84CFD9241EDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB1D73DA-F050-4FFA-A57E-84CFD9241EDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1A2AC03-4AF4-47A7-BCA9-8BA067BA9E79}
+	EndGlobalSection
+EndGlobal

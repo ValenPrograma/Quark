@@ -1,0 +1,11 @@
+E:\Programacion\Quark\c# windows form .net\Esta de acuerdo con las normas\Esta de acuerdo con las normas\bin\Debug\Esta de acuerdo con las normas.exe.config
+E:\Programacion\Quark\c# windows form .net\Esta de acuerdo con las normas\Esta de acuerdo con las normas\bin\Debug\Esta de acuerdo con las normas.exe
+E:\Programacion\Quark\c# windows form .net\Esta de acuerdo con las normas\Esta de acuerdo con las normas\bin\Debug\Esta de acuerdo con las normas.pdb
+E:\Programacion\Quark\c# windows form .net\Esta de acuerdo con las normas\Esta de acuerdo con las normas\obj\Debug\Esta de acuerdo con las normas.csproj.AssemblyReference.cache
+E:\Programacion\Quark\c# windows form .net\Esta de acuerdo con las normas\Esta de acuerdo con las normas\obj\Debug\Esta de acuerdo con las normas.csproj.SuggestedBindingRedirects.cache
+E:\Programacion\Quark\c# windows form .net\Esta de acuerdo con las normas\Esta de acuerdo con las normas\obj\Debug\Esta_de_acuerdo_con_las_normas.Form1.resources
+E:\Programacion\Quark\c# windows form .net\Esta de acuerdo con las normas\Esta de acuerdo con las normas\obj\Debug\Esta_de_acuerdo_con_las_normas.Properties.Resources.resources
+E:\Programacion\Quark\c# windows form .net\Esta de acuerdo con las normas\Esta de acuerdo con las normas\obj\Debug\Esta de acuerdo con las normas.csproj.GenerateResource.cache
+E:\Programacion\Quark\c# windows form .net\Esta de acuerdo con las normas\Esta de acuerdo con las normas\obj\Debug\Esta de acuerdo con las normas.csproj.CoreCompileInputs.cache
+E:\Programacion\Quark\c# windows form .net\Esta de acuerdo con las normas\Esta de acuerdo con las normas\obj\Debug\Esta de acuerdo con las normas.exe
+E:\Programacion\Quark\c# windows form .net\Esta de acuerdo con las normas\Esta de acuerdo con las normas\obj\Debug\Esta de acuerdo con las normas.pdb

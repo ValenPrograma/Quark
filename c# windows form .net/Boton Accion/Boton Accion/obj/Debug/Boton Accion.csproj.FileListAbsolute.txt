@@ -1,0 +1,11 @@
+E:\Programacion\Quark\c# windows form .net\Boton Accion\Boton Accion\bin\Debug\Boton Accion.exe.config
+E:\Programacion\Quark\c# windows form .net\Boton Accion\Boton Accion\bin\Debug\Boton Accion.exe
+E:\Programacion\Quark\c# windows form .net\Boton Accion\Boton Accion\bin\Debug\Boton Accion.pdb
+E:\Programacion\Quark\c# windows form .net\Boton Accion\Boton Accion\obj\Debug\Boton Accion.csproj.AssemblyReference.cache
+E:\Programacion\Quark\c# windows form .net\Boton Accion\Boton Accion\obj\Debug\Boton Accion.csproj.SuggestedBindingRedirects.cache
+E:\Programacion\Quark\c# windows form .net\Boton Accion\Boton Accion\obj\Debug\Boton_Accion.Form1.resources
+E:\Programacion\Quark\c# windows form .net\Boton Accion\Boton Accion\obj\Debug\Boton_Accion.Properties.Resources.resources
+E:\Programacion\Quark\c# windows form .net\Boton Accion\Boton Accion\obj\Debug\Boton Accion.csproj.GenerateResource.cache
+E:\Programacion\Quark\c# windows form .net\Boton Accion\Boton Accion\obj\Debug\Boton Accion.csproj.CoreCompileInputs.cache
+E:\Programacion\Quark\c# windows form .net\Boton Accion\Boton Accion\obj\Debug\Boton Accion.exe
+E:\Programacion\Quark\c# windows form .net\Boton Accion\Boton Accion\obj\Debug\Boton Accion.pdb

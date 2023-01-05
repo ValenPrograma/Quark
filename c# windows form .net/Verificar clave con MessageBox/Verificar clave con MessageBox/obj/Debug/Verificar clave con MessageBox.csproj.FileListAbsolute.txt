@@ -1,0 +1,11 @@
+E:\Programacion\Quark\c# windows form .net\Verificar clave con MessageBox\Verificar clave con MessageBox\bin\Debug\Verificar clave con MessageBox.exe.config
+E:\Programacion\Quark\c# windows form .net\Verificar clave con MessageBox\Verificar clave con MessageBox\bin\Debug\Verificar clave con MessageBox.exe
+E:\Programacion\Quark\c# windows form .net\Verificar clave con MessageBox\Verificar clave con MessageBox\bin\Debug\Verificar clave con MessageBox.pdb
+E:\Programacion\Quark\c# windows form .net\Verificar clave con MessageBox\Verificar clave con MessageBox\obj\Debug\Verificar clave con MessageBox.csproj.AssemblyReference.cache
+E:\Programacion\Quark\c# windows form .net\Verificar clave con MessageBox\Verificar clave con MessageBox\obj\Debug\Verificar clave con MessageBox.csproj.SuggestedBindingRedirects.cache
+E:\Programacion\Quark\c# windows form .net\Verificar clave con MessageBox\Verificar clave con MessageBox\obj\Debug\Verificar_clave_con_MessageBox.Form1.resources
+E:\Programacion\Quark\c# windows form .net\Verificar clave con MessageBox\Verificar clave con MessageBox\obj\Debug\Verificar_clave_con_MessageBox.Properties.Resources.resources
+E:\Programacion\Quark\c# windows form .net\Verificar clave con MessageBox\Verificar clave con MessageBox\obj\Debug\Verificar clave con MessageBox.csproj.GenerateResource.cache
+E:\Programacion\Quark\c# windows form .net\Verificar clave con MessageBox\Verificar clave con MessageBox\obj\Debug\Verificar clave con MessageBox.csproj.CoreCompileInputs.cache
+E:\Programacion\Quark\c# windows form .net\Verificar clave con MessageBox\Verificar clave con MessageBox\obj\Debug\Verificar clave con MessageBox.exe
+E:\Programacion\Quark\c# windows form .net\Verificar clave con MessageBox\Verificar clave con MessageBox\obj\Debug\Verificar clave con MessageBox.pdb
