@@ -1,0 +1,9 @@
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\c# windows form .net\ComboBox PaletaDeColores\ComboBox PaletaDeColores\bin\Debug\ComboBox PaletaDeColores.exe.config
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\c# windows form .net\ComboBox PaletaDeColores\ComboBox PaletaDeColores\bin\Debug\ComboBox PaletaDeColores.exe
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\c# windows form .net\ComboBox PaletaDeColores\ComboBox PaletaDeColores\bin\Debug\ComboBox PaletaDeColores.pdb
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\c# windows form .net\ComboBox PaletaDeColores\ComboBox PaletaDeColores\obj\Debug\ComboBox_PaletaDeColores.Form1.resources
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\c# windows form .net\ComboBox PaletaDeColores\ComboBox PaletaDeColores\obj\Debug\ComboBox_PaletaDeColores.Properties.Resources.resources
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\c# windows form .net\ComboBox PaletaDeColores\ComboBox PaletaDeColores\obj\Debug\ComboBox PaletaDeColores.csproj.GenerateResource.cache
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\c# windows form .net\ComboBox PaletaDeColores\ComboBox PaletaDeColores\obj\Debug\ComboBox PaletaDeColores.csproj.CoreCompileInputs.cache
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\c# windows form .net\ComboBox PaletaDeColores\ComboBox PaletaDeColores\obj\Debug\ComboBox PaletaDeColores.exe
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\c# windows form .net\ComboBox PaletaDeColores\ComboBox PaletaDeColores\obj\Debug\ComboBox PaletaDeColores.pdb

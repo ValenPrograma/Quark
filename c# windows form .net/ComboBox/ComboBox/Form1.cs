@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace RadioButton
+namespace ComboBox
 {
     public partial class Form1 : Form
     {
@@ -19,20 +19,7 @@ namespace RadioButton
 
         private void button1_Click(object sender, EventArgs e)
         {
-            if(radioButton1.Checked == true)
-            {
-                Width = 800;
-                Height = 600;
-            }else if(radioButton2.Checked == true)
-            {
-                Width = 1270;
-                Height = 720;
-            }
-            else if (radioButton3.Checked == true)
-            {
-                Width = 1080;
-                Height = 720;
-            }
+            Text = comboBox1.Text;
         }
     }
 }

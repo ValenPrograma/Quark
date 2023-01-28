@@ -1,0 +1,7 @@
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\c# puro\ListaTipoPila\ListaTipoPila\bin\Debug\ListaTipoPila.exe.config
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\c# puro\ListaTipoPila\ListaTipoPila\bin\Debug\ListaTipoPila.exe
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\c# puro\ListaTipoPila\ListaTipoPila\bin\Debug\ListaTipoPila.pdb
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\c# puro\ListaTipoPila\ListaTipoPila\obj\Debug\ListaTipoPila.csproj.AssemblyReference.cache
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\c# puro\ListaTipoPila\ListaTipoPila\obj\Debug\ListaTipoPila.csproj.CoreCompileInputs.cache
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\c# puro\ListaTipoPila\ListaTipoPila\obj\Debug\ListaTipoPila.exe
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\c# puro\ListaTipoPila\ListaTipoPila\obj\Debug\ListaTipoPila.pdb
