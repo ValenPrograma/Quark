@@ -1,0 +1,10 @@
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\c# windows form .net\Problema de lista tipo pila\Problema de lista tipo pila\bin\Debug\Problema de lista tipo pila.exe.config
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\c# windows form .net\Problema de lista tipo pila\Problema de lista tipo pila\bin\Debug\Problema de lista tipo pila.exe
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\c# windows form .net\Problema de lista tipo pila\Problema de lista tipo pila\bin\Debug\Problema de lista tipo pila.pdb
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\c# windows form .net\Problema de lista tipo pila\Problema de lista tipo pila\obj\Debug\Problema de lista tipo pila.csproj.AssemblyReference.cache
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\c# windows form .net\Problema de lista tipo pila\Problema de lista tipo pila\obj\Debug\Problema_de_lista_tipo_pila.Form1.resources
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\c# windows form .net\Problema de lista tipo pila\Problema de lista tipo pila\obj\Debug\Problema_de_lista_tipo_pila.Properties.Resources.resources
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\c# windows form .net\Problema de lista tipo pila\Problema de lista tipo pila\obj\Debug\Problema de lista tipo pila.csproj.GenerateResource.cache
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\c# windows form .net\Problema de lista tipo pila\Problema de lista tipo pila\obj\Debug\Problema de lista tipo pila.csproj.CoreCompileInputs.cache
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\c# windows form .net\Problema de lista tipo pila\Problema de lista tipo pila\obj\Debug\Problema de lista tipo pila.exe
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\c# windows form .net\Problema de lista tipo pila\Problema de lista tipo pila\obj\Debug\Problema de lista tipo pila.pdb
