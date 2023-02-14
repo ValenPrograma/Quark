@@ -1,0 +1,10 @@
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\c# windows form .net\Ejercicio lista cola\Ejercicio lista cola\bin\Debug\Ejercicio lista cola.exe.config
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\c# windows form .net\Ejercicio lista cola\Ejercicio lista cola\bin\Debug\Ejercicio lista cola.exe
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\c# windows form .net\Ejercicio lista cola\Ejercicio lista cola\bin\Debug\Ejercicio lista cola.pdb
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\c# windows form .net\Ejercicio lista cola\Ejercicio lista cola\obj\Debug\Ejercicio lista cola.csproj.AssemblyReference.cache
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\c# windows form .net\Ejercicio lista cola\Ejercicio lista cola\obj\Debug\Ejercicio_lista_cola.Form1.resources
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\c# windows form .net\Ejercicio lista cola\Ejercicio lista cola\obj\Debug\Ejercicio_lista_cola.Properties.Resources.resources
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\c# windows form .net\Ejercicio lista cola\Ejercicio lista cola\obj\Debug\Ejercicio lista cola.csproj.GenerateResource.cache
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\c# windows form .net\Ejercicio lista cola\Ejercicio lista cola\obj\Debug\Ejercicio lista cola.csproj.CoreCompileInputs.cache
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\c# windows form .net\Ejercicio lista cola\Ejercicio lista cola\obj\Debug\Ejercicio lista cola.exe
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\c# windows form .net\Ejercicio lista cola\Ejercicio lista cola\obj\Debug\Ejercicio lista cola.pdb

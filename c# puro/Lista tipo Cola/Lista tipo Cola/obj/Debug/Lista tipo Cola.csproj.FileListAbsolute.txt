@@ -1,0 +1,7 @@
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\c# puro\Lista tipo Cola\Lista tipo Cola\bin\Debug\Lista tipo Cola.exe.config
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\c# puro\Lista tipo Cola\Lista tipo Cola\bin\Debug\Lista tipo Cola.exe
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\c# puro\Lista tipo Cola\Lista tipo Cola\bin\Debug\Lista tipo Cola.pdb
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\c# puro\Lista tipo Cola\Lista tipo Cola\obj\Debug\Lista tipo Cola.csproj.AssemblyReference.cache
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\c# puro\Lista tipo Cola\Lista tipo Cola\obj\Debug\Lista tipo Cola.csproj.CoreCompileInputs.cache
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\c# puro\Lista tipo Cola\Lista tipo Cola\obj\Debug\Lista tipo Cola.exe
+C:\Users\Julieta\Desktop\programacion\Quark\Quark\c# puro\Lista tipo Cola\Lista tipo Cola\obj\Debug\Lista tipo Cola.pdb

@@ -4,9 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-//Una lista se comporta como una cola si las inserciones las hacemos al final y las extracciones las hacemos por el frente
-//de la lista. También se las llama listas FIFO (First In First Out - primero en entrar primero en salir).
-namespace Lista_tipo_Cola
+namespace EjercicioListaTipoCola
 {
     class Cola
     {
@@ -15,7 +13,8 @@ namespace Lista_tipo_Cola
             public int info;
             public Nodo sig;
         }
-        private Nodo raiz,fondo;
+        private Nodo raiz;
+        private Nodo fondo;
 
         public Cola()
         {
@@ -23,7 +22,7 @@ namespace Lista_tipo_Cola
             fondo = null;
         }
 
-        public bool Vacio()
+        public bool Vacia()
         {
             if(raiz == null)
             {
@@ -41,7 +40,7 @@ namespace Lista_tipo_Cola
             nuevo = new Nodo();
             nuevo.info = info;
             nuevo.sig = null;
-            if (Vacio())
+            if(Vacia())
             {
                 raiz = nuevo;
                 fondo = nuevo;
@@ -51,12 +50,11 @@ namespace Lista_tipo_Cola
                 fondo.sig = nuevo;
                 fondo = nuevo;
             }
-
         }
 
         public int Extraer()
         {
-            if (!Vacio())
+            if (!Vacia())
             {
                 int informacion = raiz.info;
                 if(raiz == fondo)
@@ -74,30 +72,18 @@ namespace Lista_tipo_Cola
             {
                 return int.MaxValue;
             }
-
         }
 
-        public void Imprimir()
+        public int Cantidad()
         {
-            Nodo aux = raiz;
-            Console.WriteLine("La lista es: ");
-            while(aux != null)
+            int cant = 0;
+            Nodo reco = raiz;
+            while(reco != null)
             {
-                Console.Write(aux.info + " - ");
-                aux = aux.sig;
+                cant++;
+                reco = reco.sig;
             }
-            Console.WriteLine();
-        }
-
-        static void Main(string[] args)
-        {
-            Cola cola1 = new Cola();
-            cola1.Insertar(5);
-            cola1.Insertar(10);
-            cola1.Insertar(50);
-            cola1.Imprimir();
-            Console.WriteLine("Extraemos uno de la cola:" + cola1.Extraer());
-            cola1.Imprimir();
+            return cant;
         }
     }
 }
